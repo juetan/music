@@ -1,21 +1,24 @@
-# music
+# 绝弹音乐
 
-> A Vue.js project
+> 个人练习项目，源自慕课网教程，技术栈(vue+vue-router+vue+vuex+stylus+betterscroll等)。
 
-## Build Setup
+## 使用
 
 ``` bash
-# install dependencies
+# 1.安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 2.运行项目(浏览器访问：localhost:8080)
 npm run dev
 
-# build for production with minification
+# 如果需要打包的话，运行该命令
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 学习
+  学而不记，只是半只半懂。学习过程中，记录下了自己的一些笔记，回顾的时候不至于没有头绪。学习文件放在，note目录下，需要自取。
+
+## 感想
+    对于没有系统学习过项目流程的人来说，该项目算是一个不错的练习。从项目的开始到结束，能学到不少常用的技术，如项目流程，跨源获取数据，流行技术的使用等。更重要的是，学到组件化对于vue的具体应用，贯彻vue生态里的模块化开发。
+    不能说，只是掌握教程里的知识就足够，很多只提到只言片语的技术，背后常常包含另一篇广阔的世界。俗话说，透过现象看本质，一个具体的项目，有时候需要数不清的技术栈支持，理解背后的细枝末节，才能够真正理解项目的过程。
