@@ -44,6 +44,4 @@ export default {
                 display: block
                 padding: 8px 16px
                 font-size: 24px
-                //color: $color-theme
-    
 </style>
